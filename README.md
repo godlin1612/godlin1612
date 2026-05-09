@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/godlin-ashika"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="linkedin.com/in/godlin-ashika"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://dreamypixel.gumroad.com"><img src="https://img.shields.io/badge/Gumroad-FF90E8?style=flat&logo=gumroad&logoColor=white"/></a>
   <a href="mailto:ashika.godlin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=godlin1612&style=flat&color=blueviolet" alt="profile views"/>
